@@ -56,6 +56,9 @@ python main.py
 
 ### Referensi
 [1]N. Vafaei, R. Ribeiro and L. Camarinha-Matos, "Assessing Normalization Techniques for Simple Additive Weighting Method", Procedia Computer Science, vol. 199, pp. 1229-1236, 2022. Available: 10.1016/j.procs.2022.01.156.
+
 [2]I. Kaliszewski and D. Podkopaev, "Simple additive weighting—A metamodel for multiple criteria decision analysis methods", Expert Systems with Applications, vol. 54, pp. 155-161, 2016. Available: 10.1016/j.eswa.2016.01.042.
+
 [3]K. Piasecki, E. Roszkowska and A. Łyczkowska-Hanćkowiak, "Simple Additive Weighting Method Equipped with Fuzzy Ranking of Evaluated Alternatives", Symmetry, vol. 11, no. 4, p. 482, 2019. Available: 10.3390/sym11040482.
+
 [4]Y. Wang, "Interval-valued fuzzy multi-criteria decision-making based on simple additive weighting and relative preference relation", Information Sciences, vol. 503, pp. 319-335, 2019. Available: 10.1016/j.ins.2019.07.012.
