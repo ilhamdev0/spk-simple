@@ -1,0 +1,6 @@
+field,kriteria,weight
+kamera,max,0
+RAM,max,0.1
+ROM,max,0.1
+Baterai,max,0
+harga,min,0.8
