@@ -1,19 +1,10 @@
-nama,kamera,RAM,ROM,Baterai,harga
-Samsung Galaxy A13,50,4,64,5000,2449000
-Samsung Galaxy A13,50,4,128,5000,2318000
-Samsung Galaxy A13,50,6,128,5000,2329000
-Xiaomi Redmi Note 11,50,4,128,5000,2399000
-Xiaomi Redmi Note 11,50,6,128,5000,2349000
-Realme C35,50,4,64,5000,2011000
-Realme C35,50,4,128,5000,1799000
-POCO M4 Pro,64,6,128,5000,2845000
-POCO M4 Pro,64,8,256,5000,2959000
-Oppo A76,13,6,128,5000,2629000
-Realme 9 Pro,64,6,128,5000,3460000
-Realme 9 Pro,64,8,128,5000,3574000
-Xiaomi Redmi Note 11 Pro,108,6,128,5000,3680000
-Xiaomi Redmi Note 11 Pro,108,8,128,5000,3674000
-Vivo Y21A,13,4,64,5000,2079000
-Samsung Galaxy A53,64,6,128,5000,5600000
-Samsung Galaxy A53,64,8,128,5000,5310000
-Samsung Galaxy A53,64,8,256,5000,5500000
+nama,cpugen,Harga
+HP Prodesk 600 G3 i5-T,7500,2099
+Lenovo Thinkcentre M700 i5-T,6500,1949
+Lenovo Thinkcentre M710q i5,7500,2149
+Dell Optiplex 7050 i5-T,6500,2075
+HP Prodesk 600 G3 i5-T,7500,2100
+Dell Optiplex 7050 i5-T,6500,2075
+Lenovo Thinkcentre M710q i5,7500,2150
+Lenovo Thinkcentre M700 i5-T,6500,1950
+
