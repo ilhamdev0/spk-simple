@@ -17,7 +17,7 @@ Aplikasi ini merupakan proof of concept (POC) yang didasari oleh penelitian meng
 
 ## Requirement Installasi
 - `Linux` based OS, *belum di uji di `MacOS` dan `Windows`
-- `Python >= 3.7`
+- `Python >= 3.12`
 - `pip` package manager
 
 ## Cara Install
